@@ -1,0 +1,7 @@
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\obj\Debug\BAIT1.csprojResolveAssemblyReference.cache
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\obj\Debug\BAIT1.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\bin\Debug\BAIT1.exe.config
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\bin\Debug\BAIT1.exe
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\bin\Debug\BAIT1.pdb
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\obj\Debug\BAIT1.exe
+C:\Users\lauri\Desktop\C#\BAIT1\BAIT1\obj\Debug\BAIT1.pdb
